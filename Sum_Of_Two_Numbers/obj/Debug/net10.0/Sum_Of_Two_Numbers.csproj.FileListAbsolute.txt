@@ -1,0 +1,15 @@
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\bin\Debug\net10.0\Sum_Of_Two_Numbers.exe
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\bin\Debug\net10.0\Sum_Of_Two_Numbers.deps.json
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\bin\Debug\net10.0\Sum_Of_Two_Numbers.runtimeconfig.json
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\bin\Debug\net10.0\Sum_Of_Two_Numbers.dll
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\bin\Debug\net10.0\Sum_Of_Two_Numbers.pdb
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\Sum_Of_Two_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\Sum_Of_Two_Numbers.AssemblyInfoInputs.cache
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\Sum_Of_Two_Numbers.AssemblyInfo.cs
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\Sum_Of_Two_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\Sum_Of_Two_Numbers.sourcelink.json
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\Sum_Of_Two_Numbers.dll
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\refint\Sum_Of_Two_Numbers.dll
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\Sum_Of_Two_Numbers.pdb
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\Sum_Of_Two_Numbers.genruntimeconfig.cache
+C:\Users\duums\RiderProjects\PYnativeExercises\BasicCSharpExercises\Sum_Of_Two_Numbers\obj\Debug\net10.0\ref\Sum_Of_Two_Numbers.dll
