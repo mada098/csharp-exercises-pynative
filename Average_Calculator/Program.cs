@@ -1,10 +1,14 @@
-﻿double firstNumber, secondNumber, thirdNumber;
+﻿using System.Globalization;
+
+double firstNumber, secondNumber, thirdNumber;
 
 Console.WriteLine("Input first number:");
-firstNumber = double.Parse(Console.ReadLine());
+firstNumber = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 Console.WriteLine("Input second number:");
-secondNumber = double.Parse(Console.ReadLine());
+secondNumber = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 Console.WriteLine("Input third number:");
-thirdNumber = double.Parse(Console.ReadLine());
+thirdNumber = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 
-Console.WriteLine($"Average = {Math.Round((firstNumber + secondNumber + thirdNumber)/3,2)}");
+double average = Math.Round((firstNumber + secondNumber + thirdNumber) / 3, 2);
+
+Console.WriteLine($"Average = {average.ToString(CultureInfo.InvariantCulture)}");
