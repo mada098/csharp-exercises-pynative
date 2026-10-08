@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Interest_Calculator", "Simple_Interest_Calculator.csproj", "{CE46E868-111D-47B2-93EA-2B8BF33A3D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE46E868-111D-47B2-93EA-2B8BF33A3D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE46E868-111D-47B2-93EA-2B8BF33A3D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE46E868-111D-47B2-93EA-2B8BF33A3D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE46E868-111D-47B2-93EA-2B8BF33A3D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
