@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Maximum", "Find_Maximum.csproj", "{DDC117C1-0A4B-45BB-823D-7F55A36B7156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC117C1-0A4B-45BB-823D-7F55A36B7156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC117C1-0A4B-45BB-823D-7F55A36B7156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC117C1-0A4B-45BB-823D-7F55A36B7156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC117C1-0A4B-45BB-823D-7F55A36B7156}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
